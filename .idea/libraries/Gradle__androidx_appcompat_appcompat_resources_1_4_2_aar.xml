@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.appcompat:appcompat-resources:1.4.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/gradle-7.2-all/gradle-7.2/bin/caches/transforms-2/files-2.1/8ddbfa23ed01a5ac1886cdcc0d484c1d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/gradle-7.2-all/gradle-7.2/bin/caches/transforms-2/files-2.1/8ddbfa23ed01a5ac1886cdcc0d484c1d/res" />
+      <root url="file://$USER_HOME$/AppData/Local/Android/Sdk/gradle-7.2-all/gradle-7.2/bin/caches/transforms-2/files-2.1/8ddbfa23ed01a5ac1886cdcc0d484c1d/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
